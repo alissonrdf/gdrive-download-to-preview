@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Visualizar link de download do Google Drive",
+    "description": "Ao usar a opção criada no menu de contexto, esta extensão irá converter o link de download do Google Drive em um link de visualização e logo após o abrirá em uma nova aba, permitindo que você possa visualizar o arquivo ao invés de baixá-lo.",
+    "version": "1.0",
+    "homepage_url": "https://github.com/alissonrdf/gdrive-download-to-view",
+
+    "icons": {
+        "48": "icons/extension-48.png",
+        "96": "icons/extension-96.png"
+      },
+
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+
+    "permissions": [
+        "activeTab",
+        "contextMenus"
+    ]
+}
