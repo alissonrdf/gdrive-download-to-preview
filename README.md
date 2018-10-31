@@ -13,7 +13,7 @@ Depois de instalar a extensão de forma temporária, basta clicar com o botão a
 
 ## Já testei e agora quero instalar, como faço?
 
-Para instalar, basta baixar a extensão [aqui](https://drive.google.com/uc?id=1dL29AuA9OzFI7YAtRFkcLryhHlZ0gMmp&export=download) e abrir com o Firefox.
+Para instalar, basta baixar a extensão [aqui](https://drive.google.com/uc?id=1_1JAUOQXPzwiPEYIEnzN0aywRIHIIPBS&export=download) e abrir com o Firefox.
 
 ---
 Parte deste README foi baseado no README do [webextensions-examples](https://github.com/mdn/webextensions-examples).
