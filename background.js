@@ -1,11 +1,7 @@
 browser.contextMenus.create({
     id: "gdrive-download-to-view",
     title: "Visualizar link do Google Drive",
-    contexts: ["link"],
-    icons: {
-        "16": "icons/extension-16.png",
-        "32": "icons/extension-32.png"
-    }
+    contexts: ["link"]
 });
 browser.contextMenus.onClicked.addListener((info, tab) => {
     if (info.menuItemId === "gdrive-download-to-view") {
