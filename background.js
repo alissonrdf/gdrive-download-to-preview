@@ -1,10 +1,10 @@
 browser.contextMenus.create({
-    id: "gdrive-download-to-view",
+    id: "gdrive-download-to-preview",
     title: "Visualizar link do Google Drive",
     contexts: ["link"]
 });
 browser.contextMenus.onClicked.addListener((info, tab) => {
-    if (info.menuItemId === "gdrive-download-to-view") {
+    if (info.menuItemId === "gdrive-download-to-preview") {
         // Obtendo o link de download.
         const download_url = info.linkUrl;
 
