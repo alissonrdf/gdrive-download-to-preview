@@ -13,7 +13,7 @@ Depois de instalar a extensão de forma temporária, basta clicar com o botão a
 
 ## Já testei e agora quero instalar, como faço?
 
-Para instalar, basta baixar a extensão [aqui](https://drive.google.com/uc?id=1_1JAUOQXPzwiPEYIEnzN0aywRIHIIPBS&export=download) e abrir com o Firefox.
+Para instalar, basta baixar a extensão [aqui](https://drive.google.com/uc?id=1D9swQZUd2ENQlmFzmP1rpsmHXRxIha50&export=download) e abrir com o Firefox, ou instalar direto do [Firefox Add-ons](https://addons.mozilla.org/pt-BR/firefox/addon/gdrive-download-to-preview/).
 
 ---
 Parte deste README foi baseado no README do [webextensions-examples](https://github.com/mdn/webextensions-examples).
